@@ -14,3 +14,6 @@ There are two installation options. 1. for Linux 2. for Windows
 4. python3 MinimalWeb.py
 
 # For Windows
+Well, even a child can figure it out on his own.
+
+Enjoy using :3
