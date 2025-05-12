@@ -8,7 +8,7 @@ MinimalWeb is a lightweight, fully open-source web browser built with just 55 li
 There are two installation options. 1. for Linux 2. for Windows
 
 # For Linux
-1. git clone 
+1. git clone https://github.com/Fest1on/MinimalWeb/blob/main/For%20LInux.zip
 2. cd MinimalWeb
 3. python3 install.py
 4. python3 MinimalWeb.py
