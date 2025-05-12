@@ -1,2 +1,2 @@
-# OSPB
-OSPB - Open Source PYTHON Browser
+# Repository Name
+MinimalWeb: A 55-Line Python Browser
